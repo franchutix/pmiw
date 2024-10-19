@@ -2,8 +2,7 @@
 Comision 3
 Francisco Tomas Oliver 95512/9
 Rocco Mugetti 121136/9
-link a video explicativo 1:
-link a video explicativo 2: 
+link a video explicativo Francisco Tomas Oliver: https://youtu.be/zImw_tHb72I 
 */
 
 
