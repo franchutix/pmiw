@@ -1,3 +1,11 @@
+/*
+valentina mazzoleni 122787/5
+Francisco Tomas Oliver 95512/9
+comision 3
+*/
+
+
+
 let pantalla = 0;
 let textos = [];
 let imagenes = [];
@@ -184,3 +192,4 @@ function mousePressed() {
     if (flujo.camino2 !== null && mouseX > 350 && mouseX < 450 && mouseY > 410 && mouseY < 460) pantalla = flujo.camino2;
   }
 }
+
